@@ -1,0 +1,16 @@
+{
+  "sekolah": [
+    {
+      "nama": "udin",
+      "guru": "yanti",
+      "kelas": "3",
+      "id": 7
+    },
+    {
+      "nama": "Bagas Iskandar",
+      "guru": "riyanti",
+      "kelas": "3",
+      "id": 8
+    }
+  ]
+}
